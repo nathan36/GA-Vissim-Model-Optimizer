@@ -1,0 +1,14 @@
+Route,Average of Travel_Time(min),Name
+0,1.650285714,152 to PMH-mid
+1,1.263809524,PMH-mid to CapeHorn
+2,1.305714286,CapeHorn to King Edwards
+3,1.480190476,King Edwards to West Brunette
+4,1.559428571,West Brunette to Gaglardi
+5,1.636761905,Gaglardi to Burnaby Lake
+6,1.561714286,Burnaby Lake to Kensington
+7,1.686285714,Kensington to West Kensington
+8,1.55352381,West Kensington to Willingdon
+9,2.42952381,Willingdon to First Ave
+10,3.470666667, First Ave to Hastings
+11,2.501333333,Hastings to IWB-mid
+12,1.704952381, IWB-mid to Mountain Hwy
